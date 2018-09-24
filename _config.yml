@@ -16,9 +16,7 @@
 title: 잠팅이 블로그
 email: beeum2@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Google blog Setting이 마음에 들지 않아서 GitHub Blog를 시작했는데, 장님이 코끼리 만지는 마음으로 여기까지 왔다. 조금씨 조금씩 알아가야지.
 baseurl: "/zamting.github.io" # the subpath of your site, e.g. /blog
 url: "https://github.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
